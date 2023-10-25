@@ -1,0 +1,22 @@
+/* Reports.css */
+.reports {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.summary {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.chart {
+    width: 60%;
+    margin: 20px auto;
+}
+
+.transaction-lists {
+    display: flex;
+    gap: 30px;
+    justify-content: space-around;
+}
